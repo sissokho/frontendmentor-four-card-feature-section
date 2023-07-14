@@ -1,46 +1,33 @@
-# Frontend Mentor - Four card feature section solution
+![](./design/desktop-preview.jpg)
+
+<h1 align="center">
+Frontend Mentor - Four card feature section solution
+</h1>
+
+<div align="center">
+  <h3>
+    <a href="https://sissokho.github.io/frontendmentor-four-card-feature-section">
+      Live Demo
+    </a>
+  </h3>
+</div>
 
 This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
+This was built using HTML and Tailwind CSS. Vite is used for the development environment
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [Built with](#built-with)
-- [Author](#author)
+## Getting Started
 
-## Overview
+-   To run the project locally, first install the dependencies:
 
-### The challenge
+```bash
+npm install
+```
 
-Users should be able to:
+-   Next, start the Vite development server:
 
-- View the optimal layout for the site depending on their device's screen size
+```bash
+npm run dev
+```
 
-### Screenshots
-
-<p align="center">
-  <img src="./images/screenshot-mobile.jpg" alt="Mobile design"/>
-</p>
-
-![](./images/screenshot-desktop.jpg)
-
-### Links
-
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-four-cards-feature-section-with-tailwind-css-and-flexbox-Zt6pkB0GW](https://www.frontendmentor.io/solutions/responsive-four-cards-feature-section-with-tailwind-css-and-flexbox-Zt6pkB0GW)
-- Live Site URL: [https://sissokho.github.io/frontendmentor-four-card-feature-section/](https://sissokho.github.io/frontendmentor-four-card-feature-section/)
-
-## Built with
-
-- Semantic HTML5 markup
-- Tailwind CSS
-- Flexbox
-- Mobile-first workflow
-
-## Author
-
-- Frontend Mentor - [@sissokho](https://www.frontendmentor.io/profile/sissokho)
-- Twitter - [@mm_sissokho](https://twitter.com/mm_sissokho)
-- Linkedin - [Mouhamadou Moustapha SISSOKHO](https://www.linkedin.com/in/mouhamadou-moustapha-sissokho-548a55125/)
+The code lives in the `index.html` file.
